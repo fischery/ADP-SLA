@@ -58,6 +58,15 @@
 				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="CHRocodileDLL.dll" Type="Document" URL="../dependent dlls/CHRocodileDLL.dll"/>
+			<Item Name="CHRocodileDLL.dll" Type="Document" URL="../SubVIs/dependent dlls/CHRocodileDLL.dll"/>
+			<Item Name="CHRocodileDLL.dll" Type="Document" URL="../tmp/CHRocodile VIS 1.1/dependent dlls/CHRocodileDLL.dll"/>
+			<Item Name="Get Output Signal IDs.vi" Type="VI" URL="../tmp/CHRocodile VIS 1.1/sub VIs/Get Output Signal IDs.vi"/>
+			<Item Name="Last Error.vi" Type="VI" URL="../SubVIs/Last Error.vi"/>
+			<Item Name="Last Error.vi" Type="VI" URL="../SubVIs/PrecitecCLS/Last Error.vi"/>
+			<Item Name="Last Error.vi" Type="VI" URL="../tmp/CHRocodile VIS 1.1/sub VIs/Last Error.vi"/>
+			<Item Name="lvimptsl.dll" Type="Document" URL="/D/Program Files (x86)/National Instruments/LabVIEW 2010/resource/lvimptsl.dll"/>
+			<Item Name="PrecitecCLSMessageLoop.vi" Type="VI" URL="../SubVIs/PrecitecCLS/PrecitecCLSMessageLoop.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
