@@ -17,6 +17,7 @@
 		<Item Name="TypeDefs" Type="Folder" URL="../TypeDefs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="butrint_TESTVI.vi" Type="VI" URL="../butrint_TESTVI.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
