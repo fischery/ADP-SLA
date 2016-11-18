@@ -67,8 +67,6 @@
 				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="ClsGeometryPeakSignal(thicknessandpeak)IDmakerforCHRocodileII.vi" Type="VI" URL="//Mac/ADP-SLA/Drop Impact Teststand/SubVIs/PrecitecCLS/ClsGeometryPeakSignal(thicknessandpeak)IDmakerforCHRocodileII.vi"/>
-			<Item Name="CLSSignalIDMakerConstant.vi" Type="VI" URL="/U/Drop Impact Teststand/SubVIs/PrecitecCLS/CLSSignalIDMakerConstant.vi"/>
 			<Item Name="lvimptsl.dll" Type="Document" URL="lvimptsl.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
