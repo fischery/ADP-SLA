@@ -70,6 +70,9 @@
 			<Item Name="lvimptsl.dll" Type="Document" URL="lvimptsl.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="PDCLIB.dll" Type="Document" URL="PDCLIB.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
