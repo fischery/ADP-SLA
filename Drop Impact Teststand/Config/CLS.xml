@@ -3,30 +3,34 @@
 <Version>15.0.1f1</Version>
 <Cluster>
 <Name>ClsConfigureValues</Name>
-<NumElts>6</NumElts>
-<I32>
+<NumElts>7</NumElts>
+<DBL>
 <Name>LED Intensity</Name>
-<Val>38</Val>
-</I32>
-<I32>
+<Val>40.00000000000000</Val>
+</DBL>
+<DBL>
 <Name>Threshold</Name>
-<Val>600</Val>
-</I32>
-<I32>
+<Val>600.00000000000000</Val>
+</DBL>
+<DBL>
 <Name>Number of Peaks</Name>
-<Val>3</Val>
-</I32>
-<I32>
+<Val>3.00000000000000</Val>
+</DBL>
+<DBL>
 <Name>Frequency</Name>
-<Val>100</Val>
-</I32>
-<I32>
+<Val>100.00000000000000</Val>
+</DBL>
+<DBL>
 <Name>Scale</Name>
-<Val>1100</Val>
-</I32>
-<I32>
+<Val>1100.00000000000000</Val>
+</DBL>
+<DBL>
 <Name>Sensor Selection</Name>
-<Val>1</Val>
-</I32>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Refractive Index</Name>
+<Val>1.33000000000000</Val>
+</DBL>
 </Cluster>
 </LVData>
