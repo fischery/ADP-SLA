@@ -1,0 +1,32 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<Cluster>
+<Name>ClsConfigureValues</Name>
+<NumElts>6</NumElts>
+<I32>
+<Name>LED Intensity</Name>
+<Val>38</Val>
+</I32>
+<I32>
+<Name>Threshold</Name>
+<Val>600</Val>
+</I32>
+<I32>
+<Name>Number of Peaks</Name>
+<Val>3</Val>
+</I32>
+<I32>
+<Name>Frequency</Name>
+<Val>100</Val>
+</I32>
+<I32>
+<Name>Scale</Name>
+<Val>1100</Val>
+</I32>
+<I32>
+<Name>Sensor Selection</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+</LVData>
