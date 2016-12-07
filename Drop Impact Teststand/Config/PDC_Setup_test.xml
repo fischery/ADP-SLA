@@ -1,0 +1,373 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f1</Version>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>PDCLists</Name>
+<NumElts>4</NumElts>
+<Array>
+<Name>ResolutionList</Name>
+<Dimsize>18</Dimsize>
+<String>
+<Name>String</Name>
+<Val>512 X 512</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>512 X 384</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>512 X 352</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>512 X 256</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>512 X 128</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>384 X 128</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>384 X 64</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>320 X 256</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>320 X 128</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>256 X 256</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>256 X 128</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>256 X 64</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>128 X 128</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>128 X 80</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>128 X 64</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>128 X 32</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>64 X 32</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>64 X 16</Val>
+</String>
+</Array>
+<Array>
+<Name>RecordRateList</Name>
+<Dimsize>32</Dimsize>
+<String>
+<Name>String</Name>
+<Val>50 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>60 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>125 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>250 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>500 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>2000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>3000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>4000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>5000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>5400 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>6250 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>8000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>9000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>10000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>12000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>15000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>16000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>20000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>30000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>40000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>54000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>75000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>90000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>100000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>125000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>180000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>250000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>300000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>450000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>500000 fps</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>675000 fps</Val>
+</String>
+</Array>
+<Array>
+<Name>ShutterSpeedList</Name>
+<Dimsize>16</Dimsize>
+<String>
+<Name>String</Name>
+<Val>1/20000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/25000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/30000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/35000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/40000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/50000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/56000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/62000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/71000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/79000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/95000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/120000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/184000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/307000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/551000 sec</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>1/1000000 sec</Val>
+</String>
+</Array>
+<Array>
+<Name>TriggerModeList</Name>
+<Dimsize>11</Dimsize>
+<String>
+<Name>String</Name>
+<Val>START</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>CENTER</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>END</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>MANUAL</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>RANDOM</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>RANDOM_RESET</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>RANDOM_CENTER</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>RANDOM_MANUAL</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TWOSTAGE_1/2</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TWOSTAGE_1/4</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>TWOSTAGE_1/8</Val>
+</String>
+</Array>
+</Cluster>
+<Cluster>
+<Name>Value</Name>
+<NumElts>7</NumElts>
+<EW>
+<Name>Color Type</Name>
+<Choice>MONO</Choice>
+<Choice>COLOR</Choice>
+<Val>0</Val>
+</EW>
+<I8>
+<Name>Bit Depth</Name>
+<Val>12</Val>
+</I8>
+<U16>
+<Name>Resolution</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Record Rate</Name>
+<Val>18</Val>
+</U16>
+<U16>
+<Name>Shutter Speed</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Trigger Mode</Name>
+<Val>1</Val>
+</U16>
+<EW>
+<Name>Display</Name>
+<Choice>Live</Choice>
+<Choice>Memory</Choice>
+<Choice>LiveStop</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+</Cluster>
+</LVData>
