@@ -10,7 +10,7 @@
 *.lib
 
 # Executables
-*.exe
+#*.exe
 
 # Metadata
 *.aliases
